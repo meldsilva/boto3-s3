@@ -17,6 +17,4 @@ for bucket in s3.buckets.all():
 
 
 
-SAK = N8wCB0CMsvHmZkxxcqFlOBe/dJc1y64zsBeM6+NF
-AK = AKIAI6AHYHJDESO4QGAQ
 
